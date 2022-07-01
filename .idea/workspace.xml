@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95a8f4c2-ea80-46e6-82e1-e66594c6f5b8" name="Default Changelist" comment="" />
+    <list default="true" id="95a8f4c2-ea80-46e6-82e1-e66594c6f5b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/lib/go-1.13" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -30,7 +36,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../divar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmd/main.go" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,7 +44,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go Build.go build main.go main.go">
     <configuration name="go build Diameter.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="summercamp-test" />
       <working_directory value="$PROJECT_DIR$" />
@@ -64,17 +70,23 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="summercamp-test" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/cmd/main.go" />
+      <filePath value="$PROJECT_DIR$/cmd/main.go|$PROJECT_DIR$/cmd/main.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Go Build.go build Diameter.go" />
+      <item itemvalue="Go Build.go build divar/cmd" />
+      <item itemvalue="Go Build.go build main.go main.go" />
+      <item itemvalue="Go Build.go build Twodigit.go" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go main.go" />
         <item itemvalue="Go Build.go build Twodigit.go" />
         <item itemvalue="Go Build.go build Diameter.go" />
         <item itemvalue="Go Build.go build divar/cmd" />
@@ -93,10 +105,19 @@
       <screen x="58" y="27" width="1862" height="1053" />
     </state>
     <state x="295" y="261" width="523" height="622" key="#Build_Tags_&amp;_Vendoring/58.27.1862.1053@58.27.1862.1053" timestamp="1656414077023" />
-    <state x="345" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1656408778865">
-      <screen x="58" y="27" width="1862" height="1053" />
+    <state x="789" y="486" width="410" height="141" key="#GOROOT" timestamp="1656669530313">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="789" y="486" width="410" height="141" key="#GOROOT/68.27.1852.1053@68.27.1852.1053" timestamp="1656669530313" />
+    <state x="452" y="211" width="1084" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656669622580">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="452" y="211" width="1084" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/68.27.1852.1053@68.27.1852.1053" timestamp="1656669622580" />
+    <state x="353" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1656669617369">
+      <screen x="68" y="27" width="1852" height="1053" />
     </state>
     <state x="345" y="311" width="424" height="491" key="FileChooserDialogImpl/58.27.1862.1053@58.27.1862.1053" timestamp="1656408778865" />
+    <state x="353" y="311" width="424" height="491" key="FileChooserDialogImpl/68.27.1852.1053@68.27.1852.1053" timestamp="1656669617369" />
     <state width="962" height="275" key="GridCell.Tab.0.bottom" timestamp="1656417518818">
       <screen x="58" y="27" width="1862" height="1053" />
     </state>

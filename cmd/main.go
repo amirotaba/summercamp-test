@@ -10,10 +10,6 @@ func main() {
 	fmt.Println("Enter question number: ")
 	fmt.Println("1 or 2(software engineering")
 	fmt.Scan(&q)
-	Load(q)
-}
-
-func Load(n int) {
 	var t, y int
 	switch n {
 	case 1:
@@ -44,5 +40,5 @@ func Load(n int) {
 		case 3:
 			internal.Calendar()
 		}
-		}
+	}
 }
